@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LYZ_trainticket:jar">
+    <output-path>F:/</output-path>
+    <root id="archive" name="trainticket.jar">
+      <element id="module-output" name="trainticket" />
+      <element id="extracted-dir" path="D:/Java/jdk1.8.0_51/lib/Access_JDBC30.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/database/Train.mdb" />
+      <element id="file-copy" path="$PROJECT_DIR$/picture/login1.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/picture/trian1.jpg" />
+    </root>
+  </artifact>
+</component>
